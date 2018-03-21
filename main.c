@@ -20,7 +20,7 @@ void print_array(int *arr, int size)
 {
 
 
-    int arr[] = {3, 1, 4, 1, 5, 9, 2};
+
 
     const int min = min_element(arr, 7);
 
